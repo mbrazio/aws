@@ -14,4 +14,4 @@ def saveToDb(request, name):
 
 
 def index(request):
-    return HttpResponse("<h2>You have reached the homepage</h2>")
+    return HttpResponse("<h2>Tá na página amigão</h2>")
